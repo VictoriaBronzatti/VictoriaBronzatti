@@ -1,4 +1,4 @@
-## Oiii eu sou a Victória Bronzatti, desenvolvedora de softwere!
+## Oiii eu sou a Victória Bronzatti, desenvolvedora de software!
 <div align="center">
   <a href="https://github.com/victoriabronzatti">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victoriabronzatti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
